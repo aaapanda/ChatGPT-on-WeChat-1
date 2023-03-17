@@ -8,7 +8,7 @@
 
 ## Acknowledgement & Features <!-- omit in toc -->
 
-This project is implemented based on [this super amazing project](https://github.com/kx-Huang/ChatGPT-on-WeChat) that I contibuted before, with [`Wechaty SDK`](https://github.com/wechaty/wechaty) and `OpenAI API`,thanks a lot! we achieve:
+This project is implemented based on [this super amazing project](https://github.com/kx-Huang/ChatGPT-on-WeChat) , with [`Wechaty SDK`](https://github.com/wechaty/wechaty) and `OpenAI API`,thanks a lot! we achieve:
 
 - fast and robust connection to a set of AI models with different features, typically `gpt-3.5-turbo` which powers `ChatGPT`
 - stable and persistent deployment on cloud servers `Railway`
