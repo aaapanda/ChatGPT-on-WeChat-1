@@ -1,11 +1,5 @@
 # ChatGPT on WeChat ![Railway Deploy](https://img.shields.io/github/checks-status/kx-huang/chatgpt-on-wechat/master?logo=railway&style=flat) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue) <!-- omit in toc -->
 
-🤖️ Turn your WeChat into ChatGPT [**within only 2 steps!**](#12-deploy-on-cloud) 🤖️
-
-<p align="center">
-  <img src="doc/img/demo.png" alt="Group chat demo for @kx-Huang/ChatGPT-on-WeChat" />
-</p>
-
 ## Acknowledgement & Features <!-- omit in toc -->
 
 This project is implemented based on [this super amazing project](https://github.com/kx-Huang/ChatGPT-on-WeChat) , with [`Wechaty SDK`](https://github.com/wechaty/wechaty) and `OpenAI API`,thanks a lot! we achieve:
