@@ -265,6 +265,6 @@ You can raise some issues, fork this repo, commit your code, submit pull request
     <img src="https://reporoster.com/stars/dark/kx-Huang/ChatGPT-on-WeChat" alt="Stargazers repo roster for @kx-Huang/ChatGPT-on-WeChat" />
   </a>
   <a href="https://github.com/kx-Huang/ChatGPT-on-WeChat/stargazers">
-    <img src="https://api.star-history.com/svg?repos=kx-Huang/ChatGPT-on-WeChat&type=Date" alt="Star history chart for @kx-Huang/ChatGPT-on-WeChat"/>
+    //<img src="https://api.star-history.com/svg?repos=kx-Huang/ChatGPT-on-WeChat&type=Date" alt="Star history chart for @kx-Huang/ChatGPT-on-WeChat"/>
   </a>
 </p>
